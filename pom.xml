@@ -66,9 +66,6 @@
         </dependencies>
     </dependencyManagement>
     <modules>
-        <module>Pro17-spring-cloud-eureka-7000</module>
-        <module>Pro17-spring-cloud-eureka-7001</module>
-        <module>Pro17-spring-cloud-eureka-7002</module>
         <module>Pro16-spring-cloud-feign-80</module>
         <module>Pro14-spring-cloud-api</module>
         <module>Pro15-spring-cloud-provider-dept-8001</module>
